@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
-    "expo": "~52.0.0",
+    "expo": "^54.0.0-canary",
     "expo-asset": "~11.0.5",
     "expo-constants": "~17.0.0",
     "expo-file-system": "~18.0.12",
